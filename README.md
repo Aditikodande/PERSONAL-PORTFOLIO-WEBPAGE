@@ -79,4 +79,5 @@ Clone or download the repository.
 Open the index.html file in your preferred web browser.
 Feel free to modify and adapt this project for your own use!
 
-OUTPUT:
+OUTPUT:https://github.com/user-attachments/assets/d3609add-d542-48e5-8daf-87add62e43bf
+https://github.com/user-attachments/assets/3ed0d17c-9241-4a44-8eef-cdd27fa1a1ef
