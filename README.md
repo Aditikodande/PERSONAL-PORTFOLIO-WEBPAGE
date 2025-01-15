@@ -1,19 +1,12 @@
+COMPANY:CODETECH IT SOLUTIONS
+NAME:ADITI KODANDE
+INTERN ID::CT08DS413 
+DOMAIN:FRONTEND WEB DEVELOPMENT
+BATCH DURATION:DECEMBER 25th, 2024 to JANUARY 25th, 2025.
+MENTOR NAME:NEELA SANTOSH
 
+PERSONAL PORTFOLIO
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Personal Portfolio
 This is a personal portfolio website that showcases my skills, experience, and front-end development projects. The site is designed with a modern, user-friendly interface that allows visitors to learn more about me, explore my work, and get in touch through a contact form.
 Features
 Smooth Scroll Navigation: Provides seamless scrolling between different sections of the page for a better user experience.
@@ -86,3 +79,4 @@ Clone or download the repository.
 Open the index.html file in your preferred web browser.
 Feel free to modify and adapt this project for your own use!
 
+OUTPUT:
